@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    width: 750px;
+    height: 750px;
+    padding: 0;
+    background: url(fondo.png);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
